@@ -1,0 +1,14 @@
+{
+  "name": "endlesscow",
+  "version": "1.0.0",
+  "description": "endless cow website",
+  "scripts": {
+    "serve": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Shreesh Kulkarni <sgkul2000@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}

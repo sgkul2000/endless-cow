@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+pre.content {
+  margin: 0;
+  padding: 0;
+  /* width: 100%; */
+
+  font-size: 20px;
+  line-height: 20px;
+  font-family: monospace;
+  margin: 0 auto;
+}
+
+#wrapper {
+  margin-top: 30vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
