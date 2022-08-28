@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",(function(){const e=document.querySelector(".segment"),n=document.getElementById("wrapper"),t=()=>{n.appendChild(e.cloneNode(!0))},o=window.screen.availHeight,d=Math.ceil((.7*o/20-5)/15)-1;for(let e=0;e<d;e++)t();document.addEventListener("scroll",(()=>{window.innerHeight+window.scrollY>=document.body.offsetHeight-100&&t()}))}));
+//# sourceMappingURL=index.013cae62.js.map
